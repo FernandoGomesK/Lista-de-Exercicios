@@ -1,3 +1,8 @@
+
+
+
+
+
 def checking1():
     while True:
         try:
